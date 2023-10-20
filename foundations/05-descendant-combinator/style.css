@@ -1,0 +1,11 @@
+/* style.css for Odin CSS exercise 4 */
+
+html {
+    font-family: serif;
+}
+
+.container .text {
+    background-color: yellow;
+    text-align: center;
+    color: red;
+}
