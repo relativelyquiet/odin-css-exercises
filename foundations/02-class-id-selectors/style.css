@@ -1,0 +1,25 @@
+/* style.css */
+
+html {
+    font-family: sans-serif;
+}
+
+.paragraphclass {
+    background-color: pink;
+    font-size: 18pt;
+}
+
+.special {
+    font-size: 32pt;
+}
+
+#uniquediv {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 32pt;
+}
+
+#otheruniquediv {
+    color: blue;
+    font-size: 48pt;
+}
