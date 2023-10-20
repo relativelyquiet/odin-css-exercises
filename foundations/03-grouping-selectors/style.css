@@ -1,0 +1,15 @@
+/* style.css - grouping selectors exercise */
+
+.blk, .yel {
+    font-size: 28pt;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.blk {
+    background-color: black;
+    color: white;
+}
+
+.yel {
+    background-color: yellow;
+}
