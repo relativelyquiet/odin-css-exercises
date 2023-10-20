@@ -1,0 +1,20 @@
+/* styles.css*/ 
+
+div {
+    background-color: red;
+    color: white;
+    font-size: 36pt;
+    text-align: center;
+}
+
+p {
+    background-color: green;
+    color: white;
+}
+
+button {
+    background-color: orange;
+    outline-color: black;
+    font-family:sans-serif;
+    
+}
